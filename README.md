@@ -1,2 +1,2 @@
-# Geometry-Dash-Translation-Hack
+# Geometry Dash Translation Hack
 Translate Non-English Text!!
